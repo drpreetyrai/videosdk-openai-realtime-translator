@@ -178,3 +178,7 @@ The translation behavior is configured using a dynamic instruction set that tell
 This comprehensive application demonstrates effective integration of WebRTC, AI translation services, and modern web development to create a practical solution for breaking language barriers in real-time communication.
 
 For more information, check out [docs.videosdk.live](https://docs.videosdk.live).
+
+
+Build AI Voice Agent using OpenAI Realtime API and VideoSDK
+https://www.youtube.com/watch?v=RaWwrdU29g4
